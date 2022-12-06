@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.6522c61c.css",
-    "main.js": "/static/js/main.e2e46b69.js",
+    "main.js": "/static/js/main.463a5d0e.js",
     "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
     "static/media/news-api.png": "/static/media/news-api.1ddf37dcf81c8961006f.png",
     "static/media/cartoon-photo.png": "/static/media/cartoon-photo.3cc84e5f2158c69c5651.png",
@@ -9,6 +9,7 @@
     "static/media/typology-home-page.jpeg": "/static/media/typology-home-page.cdf756c37244f1d2f33b.jpeg",
     "static/media/la-bus-tours-home.jpeg": "/static/media/la-bus-tours-home.f2a752665ea96472bc0e.jpeg",
     "static/media/BertSans-Light.ttf": "/static/media/BertSans-Light.602037bc5a4e0dbc9e40.ttf",
+    "static/media/Michelle-Ameral-Resume.pdf": "/static/media/Michelle-Ameral-Resume.573d2f8195572cd47956.pdf",
     "static/media/school-database-img.jpeg": "/static/media/school-database-img.475322a1f2e173fcf5a2.jpeg",
     "static/media/expense-tracker.jpeg": "/static/media/expense-tracker.fdf8fed98c37d67edb6c.jpeg",
     "static/media/computing-trivia-quiz.jpeg": "/static/media/computing-trivia-quiz.09339de72d1c070ea6ef.jpeg",
@@ -16,11 +17,11 @@
     "static/media/clone-calculator.jpeg": "/static/media/clone-calculator.65f0085a6c6b746988e4.jpeg",
     "index.html": "/index.html",
     "main.6522c61c.css.map": "/static/css/main.6522c61c.css.map",
-    "main.e2e46b69.js.map": "/static/js/main.e2e46b69.js.map",
+    "main.463a5d0e.js.map": "/static/js/main.463a5d0e.js.map",
     "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6522c61c.css",
-    "static/js/main.e2e46b69.js"
+    "static/js/main.463a5d0e.js"
   ]
 }
