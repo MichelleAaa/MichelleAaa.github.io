@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.6522c61c.css",
-    "main.js": "/static/js/main.463a5d0e.js",
+    "main.css": "/static/css/main.fa476999.css",
+    "main.js": "/static/js/main.d5e24e01.js",
     "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
     "static/media/news-api.png": "/static/media/news-api.1ddf37dcf81c8961006f.png",
     "static/media/cartoon-photo.png": "/static/media/cartoon-photo.3cc84e5f2158c69c5651.png",
@@ -16,12 +16,12 @@
     "static/media/python-turtle-tic-tac-toe-game.png": "/static/media/python-turtle-tic-tac-toe-game.0b875ece1f908bd0e8ec.png",
     "static/media/clone-calculator.jpeg": "/static/media/clone-calculator.65f0085a6c6b746988e4.jpeg",
     "index.html": "/index.html",
-    "main.6522c61c.css.map": "/static/css/main.6522c61c.css.map",
-    "main.463a5d0e.js.map": "/static/js/main.463a5d0e.js.map",
+    "main.fa476999.css.map": "/static/css/main.fa476999.css.map",
+    "main.d5e24e01.js.map": "/static/js/main.d5e24e01.js.map",
     "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.6522c61c.css",
-    "static/js/main.463a5d0e.js"
+    "static/css/main.fa476999.css",
+    "static/js/main.d5e24e01.js"
   ]
 }
