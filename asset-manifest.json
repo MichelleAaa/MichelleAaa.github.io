@@ -1,10 +1,10 @@
 {
   "files": {
     "main.css": "/static/css/main.fa476999.css",
-    "main.js": "/static/js/main.d5e24e01.js",
+    "main.js": "/static/js/main.3e89940f.js",
     "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
     "static/media/news-api.png": "/static/media/news-api.1ddf37dcf81c8961006f.png",
-    "static/media/cartoon-photo.png": "/static/media/cartoon-photo.3cc84e5f2158c69c5651.png",
+    "static/media/cartoon-photo-12-2022.png": "/static/media/cartoon-photo-12-2022.5598b2c0338c449dce6e.png",
     "static/media/Caveat-VariableFont_wght.ttf": "/static/media/Caveat-VariableFont_wght.026e363f4bf3756cbfd1.ttf",
     "static/media/typology-home-page.jpeg": "/static/media/typology-home-page.cdf756c37244f1d2f33b.jpeg",
     "static/media/la-bus-tours-home.jpeg": "/static/media/la-bus-tours-home.f2a752665ea96472bc0e.jpeg",
@@ -17,11 +17,11 @@
     "static/media/clone-calculator.jpeg": "/static/media/clone-calculator.65f0085a6c6b746988e4.jpeg",
     "index.html": "/index.html",
     "main.fa476999.css.map": "/static/css/main.fa476999.css.map",
-    "main.d5e24e01.js.map": "/static/js/main.d5e24e01.js.map",
+    "main.3e89940f.js.map": "/static/js/main.3e89940f.js.map",
     "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.fa476999.css",
-    "static/js/main.d5e24e01.js"
+    "static/js/main.3e89940f.js"
   ]
 }
