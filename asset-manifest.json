@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.1705791e.css",
+    "main.css": "/static/css/main.ebe3eeed.css",
     "main.js": "/static/js/main.446ee1be.js",
     "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
     "static/media/news-api.png": "/static/media/news-api.1ddf37dcf81c8961006f.png",
@@ -18,12 +18,12 @@
     "static/media/python-turtle-tic-tac-toe-game.png": "/static/media/python-turtle-tic-tac-toe-game.0b875ece1f908bd0e8ec.png",
     "static/media/clone-calculator.jpeg": "/static/media/clone-calculator.65f0085a6c6b746988e4.jpeg",
     "index.html": "/index.html",
-    "main.1705791e.css.map": "/static/css/main.1705791e.css.map",
+    "main.ebe3eeed.css.map": "/static/css/main.ebe3eeed.css.map",
     "main.446ee1be.js.map": "/static/js/main.446ee1be.js.map",
     "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1705791e.css",
+    "static/css/main.ebe3eeed.css",
     "static/js/main.446ee1be.js"
   ]
 }
