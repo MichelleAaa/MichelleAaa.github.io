@@ -1,10 +1,11 @@
 {
   "files": {
     "main.css": "/static/css/main.b5a307fe.css",
-    "main.js": "/static/js/main.6deb66f7.js",
+    "main.js": "/static/js/main.306effe7.js",
     "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
     "static/media/news-api.png": "/static/media/news-api.1ddf37dcf81c8961006f.png",
     "static/media/Caveat-VariableFont_wght.ttf": "/static/media/Caveat-VariableFont_wght.026e363f4bf3756cbfd1.ttf",
+    "static/media/the-office-supply-outlet-home.jpeg": "/static/media/the-office-supply-outlet-home.77197e114122e1806b76.jpeg",
     "static/media/typology-home-page.jpeg": "/static/media/typology-home-page.cdf756c37244f1d2f33b.jpeg",
     "static/media/la-bus-tours-home.jpeg": "/static/media/la-bus-tours-home.f2a752665ea96472bc0e.jpeg",
     "static/media/school-database-diagram2.png": "/static/media/school-database-diagram2.c6e556ba7e320e04ef0e.png",
@@ -18,11 +19,11 @@
     "static/media/clone-calculator.jpeg": "/static/media/clone-calculator.65f0085a6c6b746988e4.jpeg",
     "index.html": "/index.html",
     "main.b5a307fe.css.map": "/static/css/main.b5a307fe.css.map",
-    "main.6deb66f7.js.map": "/static/js/main.6deb66f7.js.map",
+    "main.306effe7.js.map": "/static/js/main.306effe7.js.map",
     "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b5a307fe.css",
-    "static/js/main.6deb66f7.js"
+    "static/js/main.306effe7.js"
   ]
 }
