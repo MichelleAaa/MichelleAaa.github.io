@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.b5a307fe.css",
-    "main.js": "/static/js/main.044b8637.js",
+    "main.js": "/static/js/main.e21b8ee8.js",
     "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
     "static/media/news-api.png": "/static/media/news-api.1ddf37dcf81c8961006f.png",
     "static/media/Caveat-VariableFont_wght.ttf": "/static/media/Caveat-VariableFont_wght.026e363f4bf3756cbfd1.ttf",
@@ -11,7 +11,7 @@
     "static/media/school-database-diagram2.png": "/static/media/school-database-diagram2.c6e556ba7e320e04ef0e.png",
     "static/media/BertSans-Light.ttf": "/static/media/BertSans-Light.602037bc5a4e0dbc9e40.ttf",
     "static/media/abc-tutoring-company.jpeg": "/static/media/abc-tutoring-company.a6e0ff788bbe907e8680.jpeg",
-    "static/media/Ameral_Michelle_Resume.pdf": "/static/media/Ameral_Michelle_Resume.2f1ab638c02994151d42.pdf",
+    "static/media/Ameral_Michelle_Resume.pdf": "/static/media/Ameral_Michelle_Resume.34faab685718561ec33c.pdf",
     "static/media/school-database-img.jpeg": "/static/media/school-database-img.475322a1f2e173fcf5a2.jpeg",
     "static/media/expense-tracker.jpeg": "/static/media/expense-tracker.fdf8fed98c37d67edb6c.jpeg",
     "static/media/computing-trivia-quiz.jpeg": "/static/media/computing-trivia-quiz.09339de72d1c070ea6ef.jpeg",
@@ -19,11 +19,11 @@
     "static/media/clone-calculator.jpeg": "/static/media/clone-calculator.65f0085a6c6b746988e4.jpeg",
     "index.html": "/index.html",
     "main.b5a307fe.css.map": "/static/css/main.b5a307fe.css.map",
-    "main.044b8637.js.map": "/static/js/main.044b8637.js.map",
+    "main.e21b8ee8.js.map": "/static/js/main.e21b8ee8.js.map",
     "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b5a307fe.css",
-    "static/js/main.044b8637.js"
+    "static/js/main.e21b8ee8.js"
   ]
 }
